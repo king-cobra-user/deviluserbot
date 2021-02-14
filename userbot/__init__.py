@@ -196,7 +196,7 @@ ISAFK = False
 AFKREASON = None
 SUDO_LIST = {}
 
-
+hi
 from userbot.helpers import *
 from userbot.helpers import functions as helldef
-from userbot.cmdhelp import CmdHelp
+from userbot.cmdhelp import CmdHelpHI
